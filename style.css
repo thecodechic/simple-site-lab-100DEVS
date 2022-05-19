@@ -1,0 +1,59 @@
+body{
+	background-color: lightblue;
+}
+
+main{
+	padding: 20px;
+	border:3px solid green;
+	margin: 10px auto;
+	width: 700px;
+	height: 650px;
+	clear: both;
+}
+
+	h1,ul{
+	text-align: center;
+	font-family: 
+}
+
+h2{
+	color: white;
+}
+
+ul{
+	list-style-type: none;
+
+}
+
+li{
+	display: inline-block;
+}
+
+img{
+	width: 20%;
+	height: 30%;
+	float: right;
+	margin-left: 15px;
+	top: 10px;
+}
+
+p{
+	font-size: 20px;
+	color: white;
+}
+
+h2,p{
+	margin-left: 20px;
+}
+
+span{
+	color: gray;
+}
+
+a{
+	color: limegreen;
+}
+
+.currentpage{
+	color: white;
+}
